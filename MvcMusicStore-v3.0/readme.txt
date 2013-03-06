@@ -1,3 +1,5 @@
+Lucas opening your head!!! Sucks society!
+
 MVC Music Store tutorial for ASP.NET MVC 3 Tools Update - v3.0 release of this tutorial
 
 The code and tutorial can be downloaded from http://mvcmusicstore.codeplex.com/
