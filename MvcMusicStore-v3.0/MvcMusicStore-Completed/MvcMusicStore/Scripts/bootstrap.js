@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* ===================================================
  * bootstrap-transition.js v2.3.1
  * http://twitter.github.com/bootstrap/javascript.html#transitions
@@ -2274,3 +2275,6 @@
 
 
 }(window.jQuery);
+=======
+isso vai ferrar o merge?
+>>>>>>> origin/master
